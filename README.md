@@ -1,4 +1,4 @@
-ETL-Inventory Stock Optimization
+# ETL Automatioin: Inventory Stock Optimization
 📌 Project Overview
 This project focuses on optimizing inventory management by automating the ETL (Extract, Transform, Load) pipeline using Apache Airflow and Elasticsearch. The goal is to ensure efficient stock management by reducing out-of-stock and overstock issues, ultimately improving operational efficiency and cost management.
 
