@@ -18,6 +18,7 @@ This project focuses on optimizing inventory management by automating the ETL (E
 - Kibana – Data visualization & dashboarding
 
 ## 📊 Workflow Architecture
+![etl automation](images\P2M3_fadhiil_DAG_graph.png)
 1. Data Validation: Validate the data using Great Expectation.
 2. DDL (Data Definition Language): Define database schema in PostgreSQL.
 3. Extract: Retrieve inventory data from PostgreSQL.
@@ -26,7 +27,6 @@ This project focuses on optimizing inventory management by automating the ETL (E
 6. Visualization: Generate insights through Kibana dashboards.
 
 ## ⏰ ETL Scheduling
-![etl automation](images\P2M3_fadhiil_DAG_graph.png)
 The ETL pipeline runs every Saturday at the following times:
 - 09:10 AM
 - 09:20 AM
