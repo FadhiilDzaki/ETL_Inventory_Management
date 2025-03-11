@@ -1,5 +1,5 @@
 # **ETL Automatioin: Inventory Stock Optimization**
-<img src="P2M3_fadhiil_DAG_graph.png" width="946" height="443"/>
+<img src="images/P2M3_fadhiil_DAG_graph.png" width="946" height="443"/>
 
 ## 📌 Project Overview
 This project focuses on optimizing inventory management by automating the ETL (Extract, Transform, Load) pipeline using Apache Airflow and Elasticsearch. The goal is to ensure efficient stock management by reducing out-of-stock and overstock issues, ultimately improving operational efficiency and cost management.
