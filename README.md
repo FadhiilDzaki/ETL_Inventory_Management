@@ -37,7 +37,7 @@ This scheduling ensures frequent data updates while optimizing system performanc
 - Enabled real-time monitoring of stock levels across multiple warehouses.
 - Automated reporting and trend analysis for better decision-making.
 
-📈 Dashboard Preview
+## 📈 Dashboard Preview
 <img src="images/P2M3_fadhiil_Dashboard.png" width="539" height="750"/>
 
 ## 📬 Contact
