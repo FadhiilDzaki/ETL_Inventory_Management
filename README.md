@@ -1,5 +1,5 @@
 # **ETL Automatioin: Inventory Stock Optimization**
-![dashboard](images/P2M3_fadhiil_Dashboard.png)
+![etl automation](images/P2M3_fadhiil_DAG_graph.png)
 
 ## 📌 Project Overview
 This project focuses on optimizing inventory management by automating the ETL (Extract, Transform, Load) pipeline using Apache Airflow and Elasticsearch. The goal is to ensure efficient stock management by reducing out-of-stock and overstock issues, ultimately improving operational efficiency and cost management.
@@ -18,7 +18,6 @@ This project focuses on optimizing inventory management by automating the ETL (E
 - Kibana – Data visualization & dashboarding
 
 ## 📊 Workflow Architecture
-![etl automation](images/P2M3_fadhiil_DAG_graph.png)
 1. Data Validation: Validate the data using Great Expectation.
 2. DDL (Data Definition Language): Define database schema in PostgreSQL.
 3. Extract: Retrieve inventory data from PostgreSQL.
@@ -37,3 +36,11 @@ This scheduling ensures frequent data updates while optimizing system performanc
 - Improved inventory tracking, reducing stock shortages and surpluses.
 - Enabled real-time monitoring of stock levels across multiple warehouses.
 - Automated reporting and trend analysis for better decision-making.
+
+📈 Dashboard Preview
+![dashboard](images/P2M3_fadhiil_Dashboard.png)
+
+📬 Contact
+For any questions or contributions, feel free to reach out:
+📧 Email: [fdzakimkerja@gmail.com](fdzakimkerja@gmail.com)
+🔗 LinkedIn: [fadhiildzaki](linkedin.com/in/fadhiildzaki)
